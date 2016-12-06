@@ -1,0 +1,21 @@
+*{
+    padding:0;
+    margin:0;
+}
+#main{
+    position:relative;
+}
+.img-box{
+    padding:10px 0px 0px 10px;
+    float:left;
+}
+.picture{
+    padding:10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    border-shadow: 1px;
+}
+.picture img{
+    width:180px;
+    height:auto;
+}
